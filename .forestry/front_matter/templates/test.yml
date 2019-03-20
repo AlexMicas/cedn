@@ -1,0 +1,15 @@
+---
+label: test
+hide_body: false
+fields:
+- type: text
+  hidden: false
+  config:
+    required: false
+  label: test
+  name: test
+  description: ee
+- type: textarea
+  name: ee
+  label: e
+  description: ee
