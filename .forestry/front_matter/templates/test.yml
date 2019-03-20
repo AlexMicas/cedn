@@ -13,3 +13,5 @@ fields:
   name: ee
   label: e
   description: ee
+pages:
+- content/ee.md
